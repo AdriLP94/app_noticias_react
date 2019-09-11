@@ -28,6 +28,9 @@ class App extends Component {
         <Header
           titulo="Noticias"
         />
+        <div className="container white contenedor-noticias">
+          
+        </div>
       </Fragment>
     );
   }
