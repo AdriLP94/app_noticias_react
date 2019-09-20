@@ -20,10 +20,16 @@ body {
   margin-top: 3rem;
 }
 
+.contenedor-buscador {
+  padding: 2rem;
+  border-radius: 1rem;  
+  margin-top: 3rem;
+}
+
 .buscador {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  text-align: left;
+  text-align: center;
 }
 .buscador label {
   font-size: 2rem;
